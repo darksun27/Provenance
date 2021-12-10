@@ -1,0 +1,109 @@
+@import '../../node_modules/skeleton-css/css/normalize.css'
+@import '../../node_modules/skeleton-css/css/skeleton.css'
+
+@import './components/*'
+
+// Override skeleton font
+body
+  font-family Roboto
+
+// Nav style
+// Hide navbar
+nav
+  display none
+
+nav ul
+  list-style-type none
+  margin 0
+  padding 0
+  overflow hidden
+  background-color #4292c6
+
+nav li
+  float left
+  margin-bottom 0
+
+nav li a
+  display block
+  color whitesmoke
+  text-align center
+  padding 14px 16px
+  text-decoration none
+
+nav li a:hover
+  border-bottom 5px solid whitesmoke
+  color whitesmoke
+
+nav li a.active
+  border-bottom 5px solid whitesmoke
+
+// Override skeleton container size
+.container
+  max-width 100%
+  width 98%
+
+.columns
+  margin-left 2%
+
+// IP table style
+.ipTable table
+  width 100%
+  -webkit-touch-callout none /* iOS Safari */
+  -webkit-user-select none /* Chrome/Safari/Opera */
+  -khtml-user-select none /* Konqueror */
+  -moz-user-select none /* Firefox */
+  -ms-user-select none /* Internet Explorer/Edge */
+  user-select none /* Non-prefixed version, currently not supported by any browser */
+
+
+#ipTableToggleSelected
+  margin-top 5px
+
+#ipTableToggleSelected input
+  margin-bottom 0
+
+.ipTable th
+  padding-top 0
+  margin-top 0
+
+.ipTable th span
+  cursor pointer
+
+.ipTable td
+  padding 1px 3px
+
+.ipTable tr.selected
+  background-color #FFAEAE
+
+.ipTable td.AccessTime:hover
+  background-color #FFF0AA
+  cursor pointer
+
+.ipTable .prevBtn
+  float left
+
+.ipTable .nextBtn
+  float right
+
+.ipTable .info
+  width 50%
+  margin 0 auto
+  display inline-block
+  text-align center
+
+p
+  margin-bottom 0
+
+dl
+  margin-top 0
+  margin-bottom 0
+
+dt
+  float left
+  clear left
+
+dl dt:nth-child(odd)
+  background-color whitesmoke
+
+dl dd:nth-child(odd)
+  background-color whitesmoke

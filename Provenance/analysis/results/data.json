@@ -1,0 +1,478 @@
+[
+  {
+    "officesCleared": [],
+    "officeMouseEnter": [
+      {
+        "date": "2016-11-16T15:01:33-06:00",
+        "eventType": "mouseenter",
+        "target": "office 24-48",
+        "x": 809,
+        "y": 206,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 28-56",
+        "x": 1152,
+        "y": 202,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 22-44",
+        "x": 1167,
+        "y": 185,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 22-45",
+        "x": 1195,
+        "y": 162,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 16-33",
+        "x": 1196,
+        "y": 160,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 16-32",
+        "x": 1193,
+        "y": 159,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 15-31",
+        "x": 1128,
+        "y": 161,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 21-42",
+        "x": 1096,
+        "y": 167,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 20-41",
+        "x": 1035,
+        "y": 183,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "office 26-52",
+        "x": 1013,
+        "y": 192,
+        "filters": {}
+      }
+    ],
+    "officeClicked": [],
+    "sliderMoved": [],
+    "mouseEnter": [
+      {
+        "date": "2016-11-16T15:01:32-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 734,
+        "y": 114
+      },
+      {
+        "date": "2016-11-16T15:01:33-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 809,
+        "y": 206
+      },
+      {
+        "date": "2016-11-16T15:01:33-06:00",
+        "eventType": "mouseenter",
+        "target": "badgeNetworkKeyLabelWhite",
+        "x": 841,
+        "y": 240
+      },
+      {
+        "date": "2016-11-16T15:01:33-06:00",
+        "eventType": "mouseenter",
+        "target": "badgeNetworkKeyLabelWhite",
+        "x": 841,
+        "y": 240
+      },
+      {
+        "date": "2016-11-16T15:01:33-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 875,
+        "y": 272
+      },
+      {
+        "date": "2016-11-16T15:01:34-06:00",
+        "eventType": "mouseenter",
+        "target": "ipTableToggleSelected",
+        "x": 1050,
+        "y": 448
+      },
+      {
+        "date": "2016-11-16T15:01:34-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1090,
+        "y": 489
+      },
+      {
+        "date": "2016-11-16T15:01:54-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1166,
+        "y": 568
+      },
+      {
+        "date": "2016-11-16T15:02:25-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 822,
+        "y": 398
+      },
+      {
+        "date": "2016-11-16T15:02:26-06:00",
+        "eventType": "mouseenter",
+        "target": "ipTableToggleSelected",
+        "x": 1097,
+        "y": 475
+      },
+      {
+        "date": "2016-11-16T15:02:26-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1113,
+        "y": 527
+      },
+      {
+        "date": "2016-11-16T15:02:33-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1113,
+        "y": 370
+      },
+      {
+        "date": "2016-11-16T15:03:58-06:00",
+        "eventType": "mouseenter",
+        "target": "ipTableToggleSelected",
+        "x": 1286,
+        "y": 459
+      },
+      {
+        "date": "2016-11-16T15:03:59-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1321,
+        "y": 573
+      },
+      {
+        "date": "2016-11-16T15:03:59-06:00",
+        "eventType": "mouseenter",
+        "target": "ipTableToggleSelected",
+        "x": 1204,
+        "y": 479
+      },
+      {
+        "date": "2016-11-16T15:04:00-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1201,
+        "y": 489
+      },
+      {
+        "date": "2016-11-16T15:04:04-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1005,
+        "y": 305
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "badgeNetworkKey",
+        "x": 1104,
+        "y": 253
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "badgeNetworkKeyLabelGreen",
+        "x": 1131,
+        "y": 227
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1152,
+        "y": 202
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "badgeNetworkKeyLabelGreen",
+        "x": 971,
+        "y": 231
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "badgeNetworkKeyLabelGreen",
+        "x": 971,
+        "y": 231
+      },
+      {
+        "date": "2016-11-16T15:04:05-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 959,
+        "y": 262
+      },
+      {
+        "date": "2016-11-16T15:04:07-06:00",
+        "eventType": "mouseenter",
+        "target": "ipTableToggleSelected",
+        "x": 951,
+        "y": 448
+      },
+      {
+        "date": "2016-11-16T15:04:07-06:00",
+        "eventType": "mouseenter",
+        "target": "",
+        "x": 1050,
+        "y": 446
+      },
+      {
+        "date": "2016-11-16T15:04:09-06:00",
+        "eventType": "mouseenter",
+        "target": "ipTableToggleSelected",
+        "x": 969,
+        "y": 448
+      }
+    ],
+    "accessTimeClicked": [],
+    "histogramBrushStart": [],
+    "histogramBrushEnd": [],
+    "headerClicked": [],
+    "rowClicked": [
+      {
+        "date": "2016-11-16T15:02:29-06:00",
+        "eventType": "shiftClick",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1166,
+        "y": 579,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:31-06:00",
+        "eventType": "shiftClick",
+        "target": "row: 1 data: 1199202188861",
+        "x": 1167,
+        "y": 627,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:01-06:00",
+        "eventType": "shiftClick",
+        "target": "row: 1 data: 1199202188861",
+        "x": 1176,
+        "y": 616,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:03-06:00",
+        "eventType": "shiftClick",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1175,
+        "y": 587,
+        "filters": {}
+      }
+    ],
+    "rowMouseOver": [
+      {
+        "date": "2016-11-16T15:01:54-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1166,
+        "y": 568,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:26-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1133,
+        "y": 570,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:26-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1145,
+        "y": 590,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:26-06:00",
+        "eventType": "mouseover",
+        "target": "row: 1 data: 1199202188861",
+        "x": 1156,
+        "y": 609,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:27-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1173,
+        "y": 600,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:27-06:00",
+        "eventType": "mouseover",
+        "target": "row: 1 data: 1199202188861",
+        "x": 1171,
+        "y": 618,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:28-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1171,
+        "y": 599,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:28-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1166,
+        "y": 553,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:02:31-06:00",
+        "eventType": "mouseover",
+        "target": "row: 1 data: 1199202188861",
+        "x": 1167,
+        "y": 627,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:03:59-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1321,
+        "y": 573,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:00-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1199,
+        "y": 563,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:00-06:00",
+        "eventType": "mouseover",
+        "target": "row: 1 data: 1199202188861",
+        "x": 1195,
+        "y": 604,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:00-06:00",
+        "eventType": "mouseover",
+        "target": "row: 2 data: 1199202461282",
+        "x": 1187,
+        "y": 655,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:00-06:00",
+        "eventType": "mouseover",
+        "target": "row: 1 data: 1199202188861",
+        "x": 1176,
+        "y": 651,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:00-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1176,
+        "y": 602,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:01-06:00",
+        "eventType": "mouseover",
+        "target": "row: 1 data: 1199202188861",
+        "x": 1176,
+        "y": 604,
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:03-06:00",
+        "eventType": "mouseover",
+        "target": "row: 0 data: 1199202029276",
+        "x": 1175,
+        "y": 587,
+        "filters": {}
+      }
+    ],
+    "tableToggleSelected": [
+      {
+        "date": "2016-11-16T15:04:07-06:00",
+        "eventType": "click",
+        "target": "ipTableToggle",
+        "filters": {}
+      },
+      {
+        "date": "2016-11-16T15:04:09-06:00",
+        "eventType": "click",
+        "target": "ipTableToggle",
+        "filters": {}
+      }
+    ],
+    "pageChange": [],
+    "histogramBarClick": [],
+    "histogramBarMouseEnter": [
+      {
+        "date": "2016-11-16T15:01:33-06:00",
+        "eventType": "mouseenter",
+        "target": "histogramBar",
+        "barCount": 3145,
+        "x": 741,
+        "y": 131,
+        "filters": {}
+      }
+    ],
+    "graphNodeMouseEnter": [],
+    "id": "CPV-A"
+  }
+]
